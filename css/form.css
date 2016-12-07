@@ -1,0 +1,28 @@
+
+.mdl-card {
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#sign-info {
+  color: #00BCD4;
+  font-size: 120%;
+}
+
+#user-pic {
+  width: 300px;
+  height:	auto;
+  box-sizing: border-box;
+}
+.demo-avatar {
+    width: 99%;
+    height: auto;
+    padding: 0px;
+}
+
+body{
+	margin-top:0px;
+	background-size:100%;
+	background-image: url(../Brownie.png);
+}
